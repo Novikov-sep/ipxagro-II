@@ -3579,6 +3579,7 @@
             spaceBetween: 80,
             autoHeight: true,
             speed: 800,
+            loop: true,
             navigation: {
                 prevEl: ".products__slider.swiper-button-prev",
                 nextEl: ".products__slider.swiper-button-next"
@@ -3602,6 +3603,7 @@
             spaceBetween: 80,
             autoHeight: true,
             speed: 800,
+            loop: true,
             navigation: {
                 prevEl: ".new__slider.swiper-button-prev",
                 nextEl: ".new__slider.swiper-button-next"
@@ -3625,6 +3627,7 @@
             spaceBetween: 80,
             autoHeight: true,
             speed: 800,
+            loop: true,
             navigation: {
                 prevEl: ".actions__slider.swiper-button-prev",
                 nextEl: ".actions__slider.swiper-button-next"
